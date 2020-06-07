@@ -1,0 +1,10 @@
+.col
+{
+    height: 480px;
+    overflow: hidden;
+}
+.card-image
+{
+    height: 250px;
+    overflow: hidden;
+}
